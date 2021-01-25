@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/trending-repos/static/js/main.d70cd2ea.chunk.js",
+    "main.js.map": "/trending-repos/static/js/main.d70cd2ea.chunk.js.map",
+    "runtime-main.js": "/trending-repos/static/js/runtime-main.6351bdb0.js",
+    "runtime-main.js.map": "/trending-repos/static/js/runtime-main.6351bdb0.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/trending-repos/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1690fbb9.chunk.js": "/trending-repos/static/js/2.1690fbb9.chunk.js",
+    "static/js/2.1690fbb9.chunk.js.map": "/trending-repos/static/js/2.1690fbb9.chunk.js.map",
+    "index.html": "/trending-repos/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/trending-repos/static/css/2.20aa2d7b.chunk.css.map",
+    "static/js/2.1690fbb9.chunk.js.LICENSE.txt": "/trending-repos/static/js/2.1690fbb9.chunk.js.LICENSE.txt",
+    "static/media/logo.dcfd38a3.png": "/trending-repos/static/media/logo.dcfd38a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6351bdb0.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.1690fbb9.chunk.js",
+    "static/js/main.d70cd2ea.chunk.js"
+  ]
+}
